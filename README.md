@@ -7,8 +7,7 @@ Iteration Based Generic method along with the CMA-ES is used to cultivate advers
 
 2. RandomForestClassifier module contains the implementation of random forest classifier. It also import the methods from GenericMethod        module to generate adversaries in Random forest. 
 
-3. Similarly, In the last module the adversarial inputs were developed in the K-Nearest Neighbors to verify its behaviour against         
-   adversaries. 
+3. Similarly, In the last module the adversarial inputs were developed in the K-Nearest Neighbors to verify its behaviour against              adversaries. 
     
 Requirements:
 
